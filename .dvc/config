@@ -2,4 +2,4 @@
     remote = minio
 ['remote "minio"']
     url = s3://dvc-ebf65ca4-1e52-45c6-9d24-9019602b3a65
-    endpointurl = minio:9000
+    endpointurl = http://minio:9000
