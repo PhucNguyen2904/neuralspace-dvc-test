@@ -1,0 +1,5 @@
+[core]
+    remote = minio
+['remote "minio"']
+    url = s3://dvc-8b875a09-3e8e-4cd0-a10b-f63f97dc1958
+    endpointurl = minio:9000
